@@ -2,7 +2,7 @@
 **Welcome to my GitHub profile!**  
 I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicated to creating impactful applications.
 
----
+
 
 ## 🚀 **About Me**
 
@@ -12,7 +12,7 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
 - 💡 **Always Learning**: I enjoy exploring emerging technologies and sharpening my **problem-solving skills**.  
 - 📍 Based in **Kolkata, India**.  
 
----
+
 
 ## 🧑‍💻 **Tech Stack**
 
@@ -28,7 +28,7 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
 ### 🧮 **Data Science Tools**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
----
+
 
 ## 📈 **GitHub Stats**
 
@@ -37,7 +37,7 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangikghosh&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
----
+
 
 ## 🌟 **Achievements**
 
@@ -46,7 +46,7 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
 - 🌟 Participated in **Ninja Slayground 2.0** and **All India Frontend Hackathon**.  
 - 🎓 Joined the prestigious **GFG 160 Program**.  
 
----
+
 
 ## 🛠️ **Highlighted Projects**
 
@@ -64,12 +64,12 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
 
 Explore more in my [repositories](https://github.com/sangikghosh?tab=repositories)!  
 
----
+
 
 ## 📬 **Let's Connect**  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100088473806630)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.a.n.g.i.k_)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sangikghosh/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sangik_Ghosh)  
 
----
+
 
 ### 🌟 **Fun Fact**  
 When I’m not coding, you’ll find me exploring tech trends, gaming, or delving into topics like **Intellectual Property Rights** and **SWOT Analysis**.
