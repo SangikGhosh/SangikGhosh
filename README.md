@@ -3,7 +3,6 @@
 I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicated to creating impactful applications.
 
 
-
 ## 🚀 **About Me**
 
 - 🎓 **Diploma Student** in **Computer Science & Technology** at **Behala Government Polytechnic**.  
@@ -11,7 +10,6 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
 - 🌐 Experienced in **web development** using **HTML**, **CSS**, **JavaScript**, **Node.js**, and **Express.js**.  
 - 💡 **Always Learning**: I enjoy exploring emerging technologies and sharpening my **problem-solving skills**.  
 - 📍 Based in **Kolkata, India**.  
-
 
 
 ## 🧑‍💻 **Tech Stack**
@@ -29,7 +27,6 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
 
-
 ## 📈 **GitHub Stats**
 
 <div align="center">
@@ -38,14 +35,12 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
 </div>
 
 
-
 ## 🌟 **Achievements**
 
 - 🏆 **Completed Internship** at **Oasis Infobyte**, honing my development skills.  
 - 🖥️ Developed multiple **3D model-based projects** with smooth animations and advanced functionality.  
 - 🌟 Participated in **Ninja Slayground 2.0** and **All India Frontend Hackathon**.  
 - 🎓 Joined the prestigious **GFG 160 Program**.  
-
 
 
 ## 🛠️ **Highlighted Projects**
@@ -65,10 +60,13 @@ I'm a passionate **Java Developer**, tech enthusiast, and problem-solver dedicat
 Explore more in my [repositories](https://github.com/sangikghosh?tab=repositories)!  
 
 
-
-## 📬 **Let's Connect**  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100088473806630)  [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://instagram.com/s.a.n.g.i.k_)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sangikghosh/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sangik_Ghosh)  
-
+## 📬 **Let's Connect**
+<div align="center">
+<a href="https://facebook.com/profile.php?id=100088473806630"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/></a>
+<a href="https://instagram.com/s.a.n.g.i.k_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
+<a href="https://linkedin.com/in/sangikghosh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+<a href="https://x.com/Sangik_Ghosh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="30"/></a>
+</div>
 
 
 ### 🌟 **Fun Fact**  
